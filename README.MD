@@ -6,7 +6,7 @@ Please add your info to the bottom of the table in an empty row in markdown form
 5. Commit.
 6. Submit a pull request. 
 
-Note: If you want to work remotely, check out www.remotemore.com/candidates
+P.S. If you want to work remotely, check out www.remotemore.com/candidates
 
 ---
 
